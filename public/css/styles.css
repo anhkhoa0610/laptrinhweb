@@ -20,6 +20,7 @@ form {
     border: 2px solid black;
     padding: 20px;
     border-radius: 15px;
+
 }
 
 .title {
@@ -36,4 +37,10 @@ footer {
 .footer-control {
     font-weight: bolder;
     font-size: 2rem;
+
+}
+
+.-table {
+    width: 600px;
+    margin: 20px auto;
 }
