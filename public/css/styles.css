@@ -26,11 +26,8 @@ form {
 
 footer {
     display: flex;
-    position: fixed;
-    bottom: 0;
-    left: 50vw;
-    transform: translate(-50%, -50%);
     justify-content: center;
+    bottom: 0;
 }
 
 .footer-control {
